@@ -22,8 +22,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-main-AmgoL0T4ia](https://www.frontendmentor.io/solutions/3-column-preview-card-component-main-AmgoL0T4ia)
+- Live Site URL: [https://arielnicolas2021.github.io/3-column-preview-card-component-main/](https://arielnicolas2021.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -35,6 +35,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ArielNicolas2021)
+- Twitter - [@yourusername](https://www.twitter.com/ArielNicolas2021)
