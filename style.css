@@ -16,27 +16,23 @@
     box-sizing: border-box;
 }
 
-html {
-    font-size: 62.5%;
-}
-
 body {
-    font-size: 16px;
     background-color: var(--very-light-gray);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Desktop style */
 main {
-    min-height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 15px;
+    max-width: 90rem;
 }
 
 section {
-    padding: 4rem;
-    width: 29rem;
+    padding: 2rem;
 }
 
 .sedans {
@@ -53,15 +49,15 @@ section {
     border-radius: 0 1rem 1rem 0;
 }
 
-h1 {
+h2 {
     font-family: 'Big Shoulders Display', sans-serif;
     color: var(--very-light-gray);
     text-transform: uppercase;
     margin: 2rem 0;
-    font-size: 4rem;
+    font-size: 2.5rem;
 }
 
-p {
+.text {
     color: var(--transparent-white);
     font-family: 'Lexend Deca', sans-serif;
     margin-bottom: 6rem;
@@ -110,10 +106,7 @@ p {
     main {
         flex-direction: column;
         margin-top: 5rem;
-    }
-
-    section {
-        width: 31rem;
+        /* width: 100%; */
     }
 
     .sedans {
@@ -124,7 +117,7 @@ p {
         border-radius: 0 0 1rem 1rem;
     }
 
-    p {
+    .text {
         margin-bottom: 4rem;
     }
 }
